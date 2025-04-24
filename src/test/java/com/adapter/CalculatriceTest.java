@@ -8,7 +8,7 @@ public class CalculatriceTest {
 
     @Test
     void testAdd(){
-        Assertions.assertEquals(4,calc.add(1,2));
+        Assertions.assertEquals(3,calc.add(1,2));
     }
     @Test
     void testSubtract(){
